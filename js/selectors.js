@@ -12,5 +12,9 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  return $('.pigs')
+  return $('.pigs');
+}
+
+function firstListItem() {
+  return $('')
 }
